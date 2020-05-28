@@ -1,5 +1,5 @@
-# Mysql_Query_Automatic Tools
-Mysql_Query_Automatic Tools is an open source tool, primarily aimed to penetration testers and developers. Mysql_Query_Automatic Tools is using the Powershell. It can be used from a Windows.
+# Mysql_Query_Automatic_Tools
+Mysql_Query_Automatic_Tools is an open source tool, primarily aimed to penetration testers and developers. Mysql_Query_Automatic_Tools is using the Powershell. It can be used from a Windows.
 
 # Usage
 How to:
