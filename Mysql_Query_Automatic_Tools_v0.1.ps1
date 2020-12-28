@@ -77,7 +77,7 @@ function Main(){
     Disconnect-MySQL $mysql_Conn
 
     if($results.Tables["data"].Rows[0][0] -lt 0){
-        Write-Host "[!] Not Exists Data $m_Time"
+        Write-Host "[!] It's not exists data $m_Time"
         exit
     }
 
